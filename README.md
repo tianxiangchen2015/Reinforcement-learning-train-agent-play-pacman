@@ -38,5 +38,5 @@ Training take 500 episodes.
 
 ### Acknowledge
 
-* Thanks to David Reilly for provding pacman code.
+* Thanks to David Reilly for provding pacman code. [Github page]http://github.com/greyblue9/pacman-python
 * Thanks to pyBrain team for the easy using library for neural network.
