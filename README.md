@@ -24,8 +24,10 @@ run pacman.pyw file then you can see the agent running Ms. Pac-man to eat Pac-do
 ### Result
 
 Training take 500 episodes. 
+
 ![alt tag](https://github.com/tianxiangchen2015/Reinforcement-learning-train-agent-play-pacman/blob/master/pics/Screenshot%20from%202016-11-04%2019-46-04.png)
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+![alt tag](https://github.com/tianxiangchen2015/Reinforcement-learning-train-agent-play-pacman/blob/master/pics/Screenshot%20from%202016-11-04%2019-46-26.png)
 
 ### Authors
 
