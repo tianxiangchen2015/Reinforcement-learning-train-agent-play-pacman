@@ -29,6 +29,8 @@ Training take 500 episodes.
 
 ![alt tag](https://github.com/tianxiangchen2015/Reinforcement-learning-train-agent-play-pacman/blob/master/pics/Screenshot%20from%202016-11-04%2019-46-26.png)
 
+![alt tag](https://github.com/tianxiangchen2015/Reinforcement-learning-train-agent-play-pacman/blob/master/pics/afdsf.png)
+
 ### Authors
 
 * **Tianxiang Chen (ORNL Research Assistant)** - [Linkedin HomePage](https://www.linkedin.com/in/tianxiang-chen-946543114?trk=nav_responsive_tab_profile)
