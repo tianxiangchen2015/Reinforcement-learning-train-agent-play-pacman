@@ -19,9 +19,20 @@ pybrain library is also needed.
 ### Agent play
 
 The main program is /pacman-python-master/pacman/pacman.pyw
-run pacman.pyw file then you can see the agent running Ms. Pac-man to eat Pac-dots
+run pacman.pyw file then you can see the agent running Ms. Pac-man to eat Pac-dots.
+
+### Result
+
+Training take 500 episodes. 
+![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+### Authors
+
+* **Tianxiang Chen (ORNL Research Assistant)** - [Linkedin HomePage](https://www.linkedin.com/in/tianxiang-chen-946543114?trk=nav_responsive_tab_profile)
+* Yan Li
 
 ### Acknowledge
 
-Thanks to David Reilly for provding pacman code.
-Thanks to pyBrain team for the easy using library for neural network.
+* Thanks to David Reilly for provding pacman code.
+* Thanks to pyBrain team for the easy using library for neural network.
